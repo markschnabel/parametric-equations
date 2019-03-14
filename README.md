@@ -15,10 +15,9 @@ Since parametric equations produce x and y values, these values could correspond
 
 View the code in action
 ---
-The code has been uploaded to https://www.openprocessing.org/ a website which allows Processing developers to upload their Processing programs or sketches where they can then be run in the browser for easy sharing.
+Link: https://www.openprocessing.org/sketch/578241
 
-The link to the Processing sketch featured in this repository is:  
-https://www.openprocessing.org/sketch/578241
+The code has been uploaded to https://www.openprocessing.org/ a website which allows Processing developers to upload their Processing programs or sketches where they can then be run in the browser for easy sharing.
 
 Aids for completing this project
 ---
@@ -27,7 +26,7 @@ Please also consider checking out and supporting the Processing foundation https
 
 Other resources for learning about parametric equations or the Processing language:
 ---
-Processig language video series:  
+Processing language video series:  
 https://www.youtube.com/watch?v=2VLaIr5Ckbs&list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi  
 Parametric equations resources:  
 https://www.youtube.com/watch?v=m6c6dlmUT1c  
